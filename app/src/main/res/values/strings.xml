@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DailyMate</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_checklist">Checklist</string>
+    <string name="nav_focus">Focus Timer</string>
+    <string name="nav_profile">Profile</string>
+</resources>

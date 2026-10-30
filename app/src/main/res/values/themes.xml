@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.DailyMate" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#887CF6</item>
+        <item name="android:navigationBarColor">#F8F9FE</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">true</item>
+    </style>
+</resources>

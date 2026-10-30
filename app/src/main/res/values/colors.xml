@@ -1,0 +1,9 @@
+<resources>
+    <color name="lavender_primary">#887CF6</color>
+    <color name="lavender_primary_dark">#6B5CE7</color>
+    <color name="lavender_light">#F0EEFF</color>
+    <color name="background_light">#F8F9FE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_primary">#1E1F2B</color>
+    <color name="text_secondary">#72778A</color>
+</resources>
